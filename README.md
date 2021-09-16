@@ -18,4 +18,6 @@
 
 > - recap de pleins de trucs git : https://github.com/HaiDang666/awesome-tool-for-readme-profile
 
+> - Badges : https://shields.io , https://github.com/alexandresanlim/Badges4-README.md-Profile#-food-
+
 > - MD cheat sheet http://markdown-it.github.io/#fn2
