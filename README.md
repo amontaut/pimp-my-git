@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+> - via https://github.com/kyechan99/capsule-render#how-to-use
+> 
+> ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome&animation=fadeIn&fontSize=50&fontAlign=50&fontAlignY=30)
+
 > - via https://github.com/anuraghazra/github-readme-stats#common-options
 > 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amontaut&layout=compact&bg_color=C9D3C9&title_color=3C7546&text_color=3C7546&hide_border=yes)](https://github.com/amontaut/github-readme-stats)
@@ -12,7 +16,6 @@
 
 > - via https://github.com/lowlighter/metrics : cool stuff mais flemme
 
-> - via https://github.com/kyechan99/capsule-render#how-to-use
-> 
-> ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+> - recap de pleins de trucs git : https://github.com/HaiDang666/awesome-tool-for-readme-profile
 
+> - MD cheat sheet http://markdown-it.github.io/#fn2
